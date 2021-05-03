@@ -1,0 +1,113 @@
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\bin\Debug\Tetris.exe
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\bin\Debug\Tetris.pdb
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\obj\Debug\Tetris.exe
+C:\Users\HP\source\repos\Harjoitustyö\Tetris\obj\Debug\Tetris.pdb
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\bin\Debug\Tetris.exe
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\bin\Debug\Tetris.pdb
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\obj\Debug\Tetris.exe
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\Harjoitustyö\Tetris\obj\Debug\Tetris.pdb
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\bin\Debug\Tetris.exe.config
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\bin\Debug\Tetris.exe
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\bin\Debug\Tetris.pdb
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\obj\Debug\Tetris.exe
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\obj\Debug\Tetris.pdb
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\obj\Debug\Tetris.recs.resources
+C:\amk\Ohjelmointi 2\PENTIX2[206]\Tetris\obj\Debug\Tetris.NameForm.resources
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\bin\Debug\Tetris.exe
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\bin\Debug\Tetris.pdb
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.NameForm.resources
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.exe
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.pdb
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.Champions.resources
+C:\Users\yuliy\OneDrive\Tiedostot\TETRIS\PENTIX2[206]\Tetris\obj\Debug\Tetris.GameOver.resources
+C:\Users\HP\Desktop\PENTIX5\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\HP\Desktop\PENTIX5\Tetris\bin\Debug\Tetris.exe
+C:\Users\HP\Desktop\PENTIX5\Tetris\bin\Debug\Tetris.pdb
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.Champions.resources
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.GameOver.resources
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.exe
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.pdb
+C:\Users\HP\Desktop\PENTIX5\Tetris\obj\Debug\Tetris.Records.resources
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\bin\Debug\Tetris.exe
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\bin\Debug\Tetris.pdb
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.Champions.resources
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.GameOver.resources
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.Records.resources
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.exe
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.pdb
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.Rules.resources
+C:\Users\yuliy\OneDrive\Tiedostot\PENTIX5\Tetris\obj\Debug\Tetris.Salut.resources
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\bin\Debug\Tetris.exe
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\bin\Debug\Tetris.pdb
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Champions.resources
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.GameOver.resources
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Records.resources
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Rules.resources
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Salut.resources
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.exe
+C:\Users\HP\Desktop\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.pdb
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\bin\Debug\Tetris.exe
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\bin\Debug\Tetris.pdb
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Champions.resources
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.GameOver.resources
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Records.resources
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Rules.resources
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.Salut.resources
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.exe
+C:\Users\yuliy\OneDrive\Tiedostot\Tetris v1.7\PENTIX!!!!!!!!!!!!!\Tetris\obj\Debug\Tetris.pdb
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\bin\Debug\Tetris.exe
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\bin\Debug\Tetris.pdb
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.Champions.resources
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.GameOver.resources
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.Records.resources
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.Rules.resources
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.Salut.resources
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.exe
+C:\Users\HP\Desktop\TETRIS v 3.0\Tetris\obj\Debug\Tetris.pdb
